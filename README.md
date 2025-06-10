@@ -5,7 +5,9 @@ This project utilizes MySQL to perform basic SQL analysis on fictitious internat
 
 ## 🧠 Objective
 
-To explore order and item tables to better understand the data.
+- Explore the items table by finding the most&least expensive item, and the item price within each category.
+- Explore the orders table by finding the date range, the number of items within an order, and the orders with the highest number of items.
+- Analyzing customer behavior by finding the most&least ordered categories and the details of the highest spend orders.
 
 ---
 
@@ -20,29 +22,8 @@ To explore order and item tables to better understand the data.
 
 - MySQL 9.3.0 commercial
 
-
 ---
 
-## 🚀 How to Run
-
-You can run the notebook directly in **[Google Colab](https://colab.research.google.com/)** or locally:
-
-1. Clone the repo  
-   `git clone https://github.com/yourusername/MNST-Classification.git`
-
-2. Open `DNN_MNST_Classification.ipynb` in Jupyter or Colab
-
-3. Run all cells to train the model
-
----
-
-## 📌 Learnings
-
-- Importance of tuning hidden units and optimizers for faster convergence
-- Impact of activation functions on performance and training stability
-- How batch size affects noise vs. convergence speed
-
----
 
 ## 🧠 Author
 
@@ -52,7 +33,4 @@ Graduate student passionate about deep learning & data science
 
 ---
 
-## 📜 License
-
-This project is under the MIT License. Feel free to fork and experiment!
 
